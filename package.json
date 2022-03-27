@@ -1,6 +1,6 @@
 {
   "name": "react-portfolio-template",
-  "private": true,
+  "private": false,
   "description": "Portfolio Template For Awesome Peoples",
   "homepage": "https://zachweyland.github.io",
   "version": "0.1.0",
